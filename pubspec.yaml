@@ -36,8 +36,7 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
-  google_ml_kit: ^0.13.0
-  image_picker: ^0.8.6
+
 
 dev_dependencies:
   flutter_test:
@@ -49,6 +48,36 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
+
+  sizing:
+  get_storage:
+  google_fonts:
+  get:
+  intl_phone_field:
+  cached_network_image:
+  tab_indicator_styler:
+  carousel_slider:
+  carousel_indicator:
+  flutter_screenutil: ^5.5.2
+  equatable:
+  cool_alert:
+  flutter_spinkit:
+  intl: ^0.17.0
+  connectivity_plus: ^3.0.2
+  internet_connection_checker: ^1.0.0+1
+  table_calendar: ^3.0.8
+  syncfusion_flutter_datepicker: ^20.3.52
+  geolocator: ^9.0.2
+  url_launcher: ^6.1.6
+  video_player: ^2.4.7
+  loading_gifs: ^0.3.0
+  cupertino_icons: ^1.0.2
+  package_info_plus: ^3.0.1
+  platform_device_id: ^1.0.1
+  platformx: ^1.1.0
+  google_ml_kit: ^0.13.0
+  image_picker: ^0.8.6
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
